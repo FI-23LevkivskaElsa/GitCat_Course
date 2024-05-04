@@ -1,2 +1,4 @@
-a = 100
-print(a)
+a = 50
+b = 30
+c = a + b
+print(c)
